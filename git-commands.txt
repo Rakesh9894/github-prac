@@ -1,0 +1,28 @@
+   2 git init
+   3 ls
+   4 clear
+   5 git status
+   6 clear
+   7 ls
+   8 clear
+   9 git status
+  10 git add testing.py
+  11 clear
+  12 git status
+  13 git rm --cache
+  14 testing.py
+  15 clear
+  16 git rm --cache testing.py
+  17 git status
+  18 git add .
+  19 git status
+  20 clear
+  21 git commit -m " add the the file"
+  22 git status
+  23 rm testing .py
+  24 clear
+  25 rm testing.py
+  26 git restore testing.py
+  27  clear
+  28 histrory
+  histroey 
